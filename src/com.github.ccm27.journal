@@ -10,10 +10,12 @@ n="$(touch ~/journal.txt; var="$(zenity --calendar| cat)"; zenity --entry --entr
  echo $n$'\r' >> ~/journal.txt
 
 zenity --notification --text="Congrats! You Created An Event!" --window-icon="event-new"
+com.github.ccm27.journal
 else 
 command=$()
 r="$(zenity --text-info --editable --filename=journal.txt)" 
 echo $r > journal.txt
 zenity --notification --text="Great!! You Just edited your journal!" --window-icon="edit"
+com.github.ccm27.journal
 fi
 
