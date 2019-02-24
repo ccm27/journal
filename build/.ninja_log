@@ -1,0 +1,7 @@
+# ninja log v5
+0	24	1550967410	com.github.ccm27.journal@exe/src_c.c.o	4437648445ce543f
+24	43	1550967410	com.github.ccm27.journal	cdad854c415d1093
+0	381	0	meson-install	9bd7faa9472bf40f
+0	39	1550967565	com.github.ccm27.journal@exe/src_c.c.o	4437648445ce543f
+39	54	1550967565	com.github.ccm27.journal	cdad854c415d1093
+0	254	0	meson-install	9bd7faa9472bf40f

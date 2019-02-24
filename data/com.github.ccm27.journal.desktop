@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Journal
+GenericName=Cool Simple Journal 
+Comment=Neat simple journal, edit and create entries
+Categories=Accessories; Education; Office;
+Exec=com.github.ccm27.journal
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Journal; Calendar; Edit; Amazon; Events;

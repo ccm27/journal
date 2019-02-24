@@ -1,0 +1,5 @@
+# List of files installed by Meson
+# Does not contain files installed by custom scripts.
+/usr/bin/com.github.ccm27.journal
+/usr/share/applications/com.github.ccm27.journal.desktop
+/usr/share/metainfo/com.github.ccm27.journal.appdata.xml

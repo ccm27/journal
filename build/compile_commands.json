@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/ccm/journal/build",
+    "command": "cc -Icom.github.ccm27.journal@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g  -MD -MQ 'com.github.ccm27.journal@exe/src_c.c.o' -MF 'com.github.ccm27.journal@exe/src_c.c.o.d' -o 'com.github.ccm27.journal@exe/src_c.c.o' -c ../src/c.c",
+    "file": "../src/c.c"
+  }
+]
