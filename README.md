@@ -1,2 +1,3 @@
-# journal
-a quick journal for elementary os
+# Cool Journal!
+a quick journal for elementary os!
+
